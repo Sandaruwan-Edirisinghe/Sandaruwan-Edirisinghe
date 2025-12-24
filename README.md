@@ -32,10 +32,6 @@ I am a dedicated **IoT Project Developer** and **Software Engineering Undergradu
 
 ### 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=IoT+%26+Embedded+Systems;Full+Stack+Development;Circuit+Design+%26+Simulation;Mobile+App+Development" alt="Typing SVG" />
-</p>
-
 <div align="center">
   <h3>⚡ IoT & Embedded Systems</h3>
   <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi&theme=dark" />
@@ -93,7 +89,3 @@ I am a dedicated **IoT Project Developer** and **Software Engineering Undergradu
 <div align="center">
   <p><i>"I strive to continuously enhance my skills and contribute to cutting-edge projects in the IoT space."</i></p>
 </div>
-<!--
-**Sandaruwan-Edirisinghe/Sandaruwan-Edirisinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
