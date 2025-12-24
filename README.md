@@ -26,39 +26,42 @@ I am a dedicated **IoT Project Developer** and **Software Engineering Undergradu
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technologies & Tools
 
-**IoT & Hardware**
-<br />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-<img src="https://img.shields.io/badge/Circuit_Design-FF5722?style=for-the-badge&logo=kicad&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=IoT+%26+Embedded+Systems;Full+Stack+Development;Circuit+Design+%26+Simulation;Mobile+App+Development" alt="Typing SVG" />
+</p>
 
-**Programming Languages**
-<br />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<div align="center">
+  <h3>⚡ IoT & Embedded Systems</h3>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Circuit_Design-KiCad-FF5722?style=plastic&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microcontrollers-ESP32-E7352C?style=plastic&logo=espressif&logoColor=white" />
+</div>
 
-**Web & Mobile Development**
-<br />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br/>
 
-**Tools & Design**
-<br />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<div align="center">
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=java,python,js,dart,c&theme=dark" />
+</div>
 
----
+<br/>
 
+<div align="center">
+  <h3>🌐 Web & Mobile Development</h3>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,html,css&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔧 Tools & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,vscode&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Design-Canva-00C4CC?style=plastic&logo=Canva&logoColor=white" />
+</div>
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
