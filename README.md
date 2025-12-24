@@ -1,14 +1,18 @@
 <h1 align="center">Hi there, I'm Prasad Sandaruwan! 👋</h1>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janith200102&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Engineer;IoT+Developer;Full+Stack+Developer;Circuit+Designer" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="mailto:eapsandaruwan246@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eapsandaruwan246%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-eapsandaruwan246@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/prasad-sandaruwan">
+  <a href="https://www.linkedin.com/in/prasad-sandaruwan-770768294">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -60,7 +64,7 @@ I am a dedicated **IoT Project Developer** and **Software Engineering Undergradu
   <h3>🔧 Tools & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,vscode&theme=dark" />
   <br/>
-  <img src="https://img.shields.io/badge/Design-Canva-00C4CC?style=plastic&logo=Canva&logoColor=white" />
+  
 </div>
 ### 🚀 Featured Projects
 
