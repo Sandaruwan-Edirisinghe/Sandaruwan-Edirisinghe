@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Prasad Sandaruwan! 👋</h1>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=janith200102&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -66,11 +65,11 @@ I am a dedicated **IoT Project Developer** and **Software Engineering Undergradu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Fitness-Buddy** | A mobile app with an integrated AI chatbot for personalized fitness advice. | `Flutter` `Dart` `AI` |
-| **Smart Waste Mgmt** | A system utilizing LoRa modules for real-time data transmission in waste management. | `IoT` `LoRa` `Web` |
-| **Environment Rover** | A joystick-controlled rover utilizing gas sensors for detecting hazardous gases in tunnels. | `Arduino` `Sensors` `C++` |
-| **Smart Parking** | Automated parking solution using real-time sensor analytics to optimize space. | `IoT` `Analytics` |
-| **Green Supermarket** | A web application for supermarket management focusing on UX and efficiency. | `Java` `Web` |
+| **Fitness-Buddy** | [cite_start]A mobile app with an integrated AI chatbot for personalized fitness advice[cite: 63, 65, 66]. | `Flutter` `Dart` `AI` |
+| **Smart Waste Mgmt** | [cite_start]A system utilizing LoRa modules for real-time data transmission in waste management[cite: 52, 54]. | `IoT` `LoRa` `Web` |
+| **Environment Rover** | [cite_start]A joystick-controlled rover utilizing gas sensors for detecting hazardous gases in tunnels[cite: 69, 73, 74]. | `Arduino` `Sensors` `C++` |
+| **Smart Parking** | [cite_start]Automated parking solution using real-time sensor analytics to optimize space[cite: 56, 58, 59]. | `IoT` `Analytics` |
+| **Green Supermarket** | [cite_start]A web application for supermarket management focusing on UX and efficiency[cite: 84, 86, 87]. | `Java` `Web` |
 
 ---
 
